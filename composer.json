@@ -1,0 +1,19 @@
+{
+    "name": "wooletthedevsout/shipping-zone",
+    "description": "WLTDO framework's module for dealing with shipping zones.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "carlos",
+            "email": "geral@meuppt.pt"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wooletthedevsout\\Shipping\\Zone\\": "src/"
+        }
+    }
+}
